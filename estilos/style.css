@@ -46,7 +46,7 @@
  }
  section#redes-sociais img:hover {
     border: 2px solid  white;
-    transform: translate(10px 3px);
-    box-shadow: 7px 7px 12px rgba(0, 0, 0, 0.534);
-    transition: transform .5s border 1ms;
+    transform: translate -3px -3px;
+    box-shadow: 7px 7px 12px rgba(0, 0, 0, 0.534);  
+    transition: transform .5s border .6s;
  }
